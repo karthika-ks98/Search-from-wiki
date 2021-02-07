@@ -1,0 +1,33 @@
+
+table {
+    width :100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+ 
+}
+.result {
+    margin :2%;
+   
+} 
+.title {
+    width:20%;
+    padding-left: 1%;
+    color:blue;
+}
+.news {
+    width:70%;
+    padding-left: 1%;
+}
+
+.wordcount {
+    width:10%;
+    padding-left: 1%;
+}
+
+.table-heading {
+    color:rgb(139, 35, 35);
+    background-color: silver;
+}

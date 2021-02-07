@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "wiki"
+  "defaultProject": "wiki",
+  "cli": {
+    "analytics": "b53d480f-7946-4dcc-a31b-cb633fa923aa"
+  }
 }

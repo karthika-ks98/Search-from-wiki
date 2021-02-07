@@ -1,0 +1,33 @@
+
+/* .header {
+    width:100%;
+    height:100px;
+    background-color: #0000ff;
+ 
+}
+
+
+.header > h1{
+    text-align: center;
+    color: #ffff;
+    padding-top: 2%;
+}
+/* .navbar navbar-expand-lg navbar-light bg-light{
+
+} */
+ .navbar-brand{
+   
+    padding-left:0%;
+    background-color: rgb(53, 6, 6);
+    width:100%;
+    height:55px;
+    padding-top: 0%;
+
+}
+.header-name {
+   text-align: center;
+   margin-top: -3%;
+   color:#ffff;
+   font-weight: bolder;
+   font-family:cursive;
+} 

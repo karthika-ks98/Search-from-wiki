@@ -1,0 +1,14 @@
+<div class="result">
+  <table>
+    <tr class="table-heading">
+      <th> TITLE</th>
+      <th> NEWS </th>
+      <th> WORD COUNT</th>
+    </tr>
+    <tr *ngFor="let d of data">
+      <th class="title">{{d.title}}</th>
+      <th [innerHTML]="d.snippet" class="news"></th>
+      <th class="wordcount"> {{d.wordcount}}</th>
+    </tr>
+  </table>
+</div>
